@@ -6,6 +6,4 @@ fff
 aaaand our wiki, at:    
    https://cwiki.apache.org/confluence/display/HADOOP/
 
-jjjjj111
-
 asd
